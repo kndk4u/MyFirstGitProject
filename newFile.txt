@@ -1,1 +1,2 @@
 Adding a sample text.
+Second line added using GitHub.
