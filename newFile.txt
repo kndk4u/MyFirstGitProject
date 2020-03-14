@@ -1,2 +1,3 @@
 Adding a sample text.
 Second line added using GitHub.
+Added third line using eclipse.
